@@ -5,8 +5,8 @@
  ### I'm a Software Engineer at Relisource
 
 - Currently working with **.NET** technologies to build scalable backend services.
-- Hands-on experience with **Azure Service Bus**, **Cosmos DB**, **MS SQL Server**, and **Azure <br> Functions**.
-- Competitive programmer with **1900+ problems** solved and participation in **ICPC Dhaka <br> Regionals**.
+- Hands-on experience with **Azure Service Bus**, **Cosmos DB**, **MS SQL Server**, and <br> **Azure Functions**.
+- Competitive programmer with **1900+ problems** solved and participation in **ICPC <br> Dhaka Regionals**.
 - Always learning — exploring **Machine Learning**, **Deep Learning**, and modern **web <br> technologies**.
 - Open to collaborating on impactful and challenging software projects.
 ---
